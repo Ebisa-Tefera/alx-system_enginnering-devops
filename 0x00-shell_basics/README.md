@@ -1,1 +1,1 @@
-script that prints the absolute path name of the current working directory
+task0 my name ebisa tefera dawit
